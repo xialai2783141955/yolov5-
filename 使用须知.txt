@@ -1,0 +1,13 @@
+行人车辆检测与计数系统v1.0
+作者：思绪无限
+公众号: AI技术研究与分享
+面包多: https://mbd.pub/o/wuxian/
+CSDN: https://wuxian.blog.csdn.net
+BiliBili: https://space.bilibili.com/456667721
+博客园: https://www.cnblogs.com/sixuwuxian/
+知乎: https://www.zhihu.com/people/sixuwuxian
+
+原创代码，仅用于学习交流，禁止他人商用和盗卖，盗版必究！
+
+温馨提醒：本代码仅上传在面包多或CSDN平台，作者未在淘宝、咸鱼等平台开店，
+如出自类似平台皆为盗版，请联系作者邮箱：sixuwuxian@aliyun.com
